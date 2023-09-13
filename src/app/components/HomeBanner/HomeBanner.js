@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const HomeBanner = () => {
     return (
-        <div className="flex items-center justify-center h-[250px] md:h-[880px] gap-3 md:gap-[100px] bg-[#282828] text-white px-6 py-8" id={"Home"}>
+        <div className="flex items-center justify-center h-[250px] md:h-[900px] gap-3 md:gap-[100px] bg-[#282828] text-white px-6 py-8" id={"Home"}>
             <div className="left flex flex-col gap-3 md:gap-8 justify-center items-center md:ml-32">
                 <h1 className="md:text-7xl text-base font-bold">Full Stack Developer</h1>
                 <h2 className="md:text-2xl text-xs text-center">Building Websites and Web Applications for you!</h2>
